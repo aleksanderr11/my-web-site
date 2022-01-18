@@ -1,3 +1,6 @@
 body {
     background-color: aliceblue;
 }
+p {
+    border-left: 0ch;
+}
